@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "dependencies": {
-    "vatican": "1.2.4",
+    "vatican": "1.2.5",
     "lodash": "*"
   }
 }
